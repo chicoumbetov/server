@@ -21,3 +21,7 @@ To start the server, run:
 ```bash
 npm start
 ```
+
+### drizzle folder is generated after launching command: npm run generate
+
+npm run generate needs drizzle.config.ts, schema.ts files
